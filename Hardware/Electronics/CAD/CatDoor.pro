@@ -1,4 +1,4 @@
-update=29.11.2017 14:57:22
+update=Montag, 03. September 2018 20:29:53
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,9 +59,7 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=lib/schematics/ESP8266
-LibName32=lib/schematics/HILINK
-LibName33=lib/schematics/SSR
-LibName34=lib/schematics/switches
-LibName35=lib/schematics/L9110
-LibName36=lib/schematics/pololu_a4988
+LibName31=Libraries/Schematics/ESP8266
+LibName32=Libraries/Schematics/HiLink
+LibName33=Libraries/Schematics/L9110
+LibName34=Libraries/Schematics/SW_DPST_x2
